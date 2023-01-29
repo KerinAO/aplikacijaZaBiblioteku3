@@ -1,0 +1,15 @@
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\bin\Debug\AplikacijaZaBiblioteku.exe.config
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\bin\Debug\AplikacijaZaBiblioteku.exe
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\bin\Debug\AplikacijaZaBiblioteku.pdb
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.csproj.AssemblyReference.cache
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.Form1.resources
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.PosudbaVracanje.resources
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.Pretraga.resources
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.Properties.Resources.resources
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.UpisKnjige.resources
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.UpisKorisnika.resources
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.csproj.GenerateResource.cache
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.csproj.CoreCompileInputs.cache
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.exe
+D:\Users\Ramseeys\Downloads\XMLZadatakkkk-master\obj\Debug\AplikacijaZaBiblioteku.pdb
